@@ -2,4 +2,4 @@
 
 Using HTML, CSS, JavaScript
 
-View at: https://xenodochial-kirch-61a193.netlify.app/
+View at: https://kritika243.github.io/Restaurant-Menu/
